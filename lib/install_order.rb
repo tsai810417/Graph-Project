@@ -6,7 +6,8 @@
 # N.B. this is how `npm` works.
 
 # Import any files you need to
-
+require 'topolofical_sort'
+require 'byebug'
 
 
 def install_order(arr)
